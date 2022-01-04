@@ -15,5 +15,6 @@ int main()
     cout << "clion is better than visual studio. I hate visual. Clion is the best c IDE";
     cout << "kid come down for gods sake";
     cout << "I say hagh. Kid don't say bullshit. WE have headache.";
+    cout << "B)))";
     return 0;
 }
