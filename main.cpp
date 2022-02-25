@@ -16,5 +16,6 @@ int main()
     cout << "kid come down for gods sake";
     cout << "I say hagh. Kid don't say bullshit. WE have headache.";
     cout << "B)))";
+    cout << " hey howdy? still think jet brains better?";
     return 0;
 }
